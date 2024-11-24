@@ -1,0 +1,16 @@
+{
+    "name": "icono.bbva",
+    "version": "1.0.0",
+    "description": "Curso de JS",
+    "main": "main.js",
+    "type": "module",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "Alejandro Cerezo Lasne** <alce65@hotmail.es>",
+    "license": "ISC",
+    "prettier": {
+        "singleQuote": true
+    }
+}
