@@ -4,5 +4,6 @@ export function totalSum(data) {
         // accumulator = accumulator + item
         accumulator += item;
     }
+
     return accumulator;
 }

@@ -1,4 +1,4 @@
-import { totalSum } from "./tools.js";
+import { totalSum } from './tools.js';
 
 const cad = 'Hola mundo';
 console.log(cad.length);
@@ -15,8 +15,9 @@ for (const item of cad) {
     console.log(item);
 }
 
-const numbers = [2, 5, 7, 4, 9];
+let numbers = [2, 5, 7, 4, 9];
 console.log(totalSum(numbers));
+console.log({ numbers });
 
 const user = {
     name: 'Pepe',
