@@ -1,8 +1,9 @@
 # JavaScript (16 horas)
 
-Modalidad: Remoto con la herramienta WebEx / Cliente BBVA IT
-Fecha: 25 y 26 de Noviembre de 2024
-Horario: 8:45 a 17:45 (1 hora para comer)
+- Modalidad: Remoto con la herramienta WebEx / Cliente BBVA IT
+- Fecha: 25 y 26 de Noviembre de 2024
+- Horario: 8:45 a 17:45 (1 hora para comer)
+- Repositorio <https://github.com/IconoTC/JavaScript-25-26-Nov>
 
 ## Formador
 
@@ -17,15 +18,39 @@ Formador / Desarrollador Web FullStack
 - JavaScript - Typescript - Angular - React
 - NodeJS - Express - MongoDB - MySQL
 
+## Alumnos
+
+1. - PALOMARES FLORES, SARA
+2. - MORENO FUENTES, SANDRA
+3. - FRANCO RODRIGUEZ, VIANCA TEREZA
+4. - TAWFIK VAZQUEZ, SANDRA
+5. - FRAILE OLAYA, PATRICIA
+6. - MERLO HERRERO, PAULA
+7. - SORIANO NISTAL, MARIA DEL PILAR
+8. - HEREDIA CASADO, CAROLINA
+9. - ALVAREZ JIMENEZ, MARIA
+10. - BELTRAN PULIDO, LAURA
+11. - CAPEL GIMENEZ, CARMEN MARIA
+12. - CANO MENDEZ, OLATZ (BILBAO)
+13. - LENARDUZZI, VICTORIA (BILBAO)
+14. - GUTIERREZ LLAMOSAS, JULENE (BILBAO)
+15. - PANDO HERGUEDAS, INES (BILBAO)
+16. - DEL RIO DIAZ, ALBA (BILBAO)
+17. - FRANCO CUESTA, GLORIA (BILBAO)
+18. - CARVAJAL ALFARO, MANUEL FELIPE
+19. - PEREZ HERNANDEZ, JOSE LUIS
+
 ## Contenidos
 
-- Ciclo de vida de un programa JavaScript
-- Elementos y constructos esenciales del lenguaje
-- Programación orientada a objetos con JavaScript
-- Nociones de programación funcional en JavaScript
-- Colecciones de objetos
-- Los objetos estándar del navegador
-- Interactividad de las páginas: el sistema de eventos
-- Gestión de formularios HTML
-- Biblioteca estándar de JavaScript
-- Introducción a AJAX
+- Parte 1. ES Core
+  - Ciclo de vida de un programa JavaScript
+  - Elementos y constructos esenciales del lenguaje
+  - Programación orientada a objetos con JavaScript
+  - Nociones de programación funcional en JavaScript
+  - Colecciones de objetos
+- Parte 2. ES en la Web
+  - Los objetos estándar del navegador
+  - Interactividad de las páginas: el sistema de eventos
+  - Gestión de formularios HTML
+  - Biblioteca estándar de JavaScript
+  - Introducción a AJAX
