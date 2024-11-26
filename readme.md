@@ -44,8 +44,19 @@ Formador / Desarrollador Web FullStack
 
 - Parte 1. ES Core
   - Ciclo de vida de un programa JavaScript
+    - Introducción ¿Que es JS / ES?
+    - Entorno de desarrollo
+    - Entorno de ejecución: Node / Browser
+    - Debugger: execution context
   - Elementos y constructos esenciales del lenguaje
+    - Datos: tipos
+    - Variables: tipado débil y dinámico
+    - Expresiones y operadores
+    - Sentencias: control de flujo
+    - Funciones
+    - Objetos: tipos referenciados -> mutables
   - Programación orientada a objetos con JavaScript
+    - Prototipos de objetos y funciones
   - Nociones de programación funcional en JavaScript
   - Colecciones de objetos
 - Parte 2. ES en la Web
