@@ -1,0 +1,4 @@
+{
+    "liveServer.settings.root": "./code/web",
+    "liveServer.settings.ignoreFiles": ["**/server/**"]
+}
