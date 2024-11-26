@@ -39,7 +39,9 @@ console.log('Tiene Pepe cerebro?', user1.hasBrain);
 console.log(user1.hasOwnProperty('teeth'));
 console.log(user1.hasOwnProperty('hasBrain'));
 
-const foo = function () {};
+const foo = function () {
+    console.log('Soy foo');
+};
 foo.type = 'básico';
 console.log(foo);
 console.log(foo.hasOwnProperty('type'));
